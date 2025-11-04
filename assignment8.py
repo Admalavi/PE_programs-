@@ -1,5 +1,5 @@
 # Expert System: Disease Diagnosis with Weighted Symptoms and Confidence Scores
-# Developed by Akshata Malavi & GPT-5 💡
+# Developed by Akshata Malavi 
 
 def run_weighted_expert_system(predefined_answers=None):
     # Weighted rule base: disease -> {symptom: weight}
